@@ -1,0 +1,13 @@
+.widget {
+  padding: 16px 16px 0 0 !important;
+}
+
+.widget:first-of-type {
+    padding-left: 16px !important;
+}
+
+.inner {
+    border: 1px solid #e2e2e2;
+    background-color: #f1f1f1;
+    height: 100%;
+}
